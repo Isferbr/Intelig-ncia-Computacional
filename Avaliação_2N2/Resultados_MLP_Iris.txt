@@ -1,0 +1,6 @@
+"","V1"
+"media",95
+"mediana",93.3333333333333
+"minimo",90
+"maximo",100
+"desvio_padrao",3.92837100659193
